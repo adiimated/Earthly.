@@ -1,2 +1,2 @@
 # Earthly.
-Website for environmental NGO
+Static Website for environmental NGO
